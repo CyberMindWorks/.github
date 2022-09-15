@@ -10,11 +10,11 @@
 
 ### Is this tested on all screen sizes?
 
-- [ ] 4k screens
-- [ ] Desktop
-- [ ] Laptop
-- [ ] Tablet
 - [ ] Mobile
+- [ ] Tablet
+- [ ] Laptop
+- [ ] Desktop
+- [ ] 4k screens
 
 ### Is this tested on all operating systems?
 
