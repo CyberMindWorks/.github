@@ -6,6 +6,7 @@
 
 - [ ] Is this tested on all the scenarios and edge cases?
 - [ ] Are all the coding conventions listed [here](https://github.com/CyberMindWorks/Development-Docs/blob/master/coding_conventions.md) followed?
+- [ ] No warnings in browser console
 - [ ] Is the [Development-Docs](https://github.com/CyberMindWorks/Development-Docs) documentation updated? 
 
 ### Is this tested on all screen sizes?
